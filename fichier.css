@@ -1,21 +1,11 @@
-div.bandeau {
-    background-color: #ff0000;
-    padding: 20px;
-    text-align: center;
-    font-size: 18px;
-    color: #333;
+#bandeau {
+    background-color: green;
 }
-div.contenu {
-    background-color: #2bff00;
-    padding: 20px;
-    text-align: center;
-    font-size: 16px;
-    color: #555;
+
+#contenu {
+    background-color: pink;       
 }
-div.piedpage {
-    background-color: #a200ff;
-    padding: 20px;
-    text-align: center;
-    font-size: 14px;
-    color: #777;
+
+#piedpage {
+    background-color:yellowgreen ;
 }
