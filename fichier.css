@@ -1,11 +1,23 @@
-#bandeau {
-    background-color: green;
+.contenupage {
+    width: 400px;
+    margin: 20px;
 }
 
-#contenu {
-    background-color: pink;       
+header {
+    height: 50px;
+    background-color: #29880f;
+    text-align: center;
+    line-height: 50px;
 }
-
-#piedpage {
-    background-color:yellowgreen ;
+main {
+    height: 280px;
+    background-color: #f6aaef;
+    text-align: center;
+    line-height: 280px;
+}
+footer {
+    height: 50px;
+    background-color: #880f25;
+    text-align: center;
+    line-height: 50px;
 }
