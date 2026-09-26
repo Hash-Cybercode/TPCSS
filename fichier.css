@@ -1,23 +1,22 @@
-.contenupage {
+#bandeau {
     width: 100%;
-    height: 100%;
-}
-
-header {
-    height: 50px;
-    background-color: #29880f;
+    height: 70px;
     text-align: center;
-    line-height: 50px;
+    line-height: 70px;
+    background-color: #ee00ff;
 }
-main {
-    height: 280px;
-    background-color: #f6aaef;
+#contenu {
+    width: 100%;
+    height: 590px;
     text-align: center;
-    line-height: 280px;
+    line-height: 590px;
+    background-color: #2bff00;
 }
-footer {
-    height: 50px;
-    background-color: #880f25;
+}
+#pieddepage {
+    width: 100%;
+    height: 70px;
     text-align: center;
-    line-height: 50px;
+    line-height: 70px;
+    background-color: #00e1ff;
 }
