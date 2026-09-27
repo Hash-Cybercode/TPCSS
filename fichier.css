@@ -14,19 +14,29 @@
 }
 #contenu1 {
     width: 15%;
-    height: 590px;
+    height: 295px;
     text-align: center;
-    line-height: 590px;
+    line-height: 295px;
     background-color: #eeff6ef9;
     float: left;
 }
 #contenu2 {
-    width: 30%;
-    height: 280px;
+    width: 15%;
+    height: 295px;
     text-align: center;
-    line-height: 280px;
+    line-height: 295px;
+    background-color: #6e6efff9;
+    float: left;
+    clear: left;
+}
+#contenu3 {
+    width: 30%;
+    height: 270px;
+    text-align: center;
+    line-height: 270px;
     background-color: #ff6e73f9;
     float: right;
+    clear: right;
 }
 #pieddepage {
     width: 100%;
